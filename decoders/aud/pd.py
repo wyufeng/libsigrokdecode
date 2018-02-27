@@ -24,6 +24,8 @@
 
 import sigrokdecode as srd
 
+
+
 class Decoder(srd.Decoder):
     api_version = 3
     id = 'aud'
